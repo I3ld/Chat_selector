@@ -7,7 +7,6 @@ Client/Server application based on sockets using NIO Selector.
 
 # Installation
 ### Prerequisites
-- Intellij
 - JDK 1.8+
 
 # License
